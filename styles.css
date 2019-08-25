@@ -1,9 +1,13 @@
 body {
+    padding: 20px;
+    min-width: 1024px;
+}
+
+.a4 {
     display: flex;
     max-width: 1240px;
     min-height: 1754px;
-    margin: 20px auto;
-    padding: 0;
+    margin: 0 auto;
     font-family: 'Courier New', Courier, monospace;
     box-shadow: 0 5px 10px #101820;
 }
